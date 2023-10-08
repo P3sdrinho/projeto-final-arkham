@@ -1,0 +1,146 @@
+
+
+
+/*ID's ESPECIFICOS*/
+
+#footer-warner img{
+
+    width: 50px;
+    height: auto;
+    vertical-align: middle;
+}
+
+#footer-warner{
+
+    align-items: center;
+    margin: 0 auto;
+    letter-spacing: 0.1rem;
+    display: flex;
+    justify-content: center;
+
+    }
+
+#warner-footer-logo{
+
+width: 90px;
+height: auto;
+
+
+}
+
+#studio-crew{
+
+    height: 100vh;
+    width: auto;
+    margin-right: 3%;
+
+}
+
+#rocksteady{
+
+    height: 140px;
+    width: auto;
+    padding: 20px;
+    
+
+}
+
+#batman{
+
+    max-width: 85%;
+    height: 55rem;
+    margin-left: 5%;
+
+}
+
+
+#scarecrow{
+
+    margin-top: 5%;
+    margin-left: -5rem;
+    margin-right: 5rem;
+    max-width: 85%;
+    height: 60rem;
+}
+
+#two-face{
+
+    max-width: 85%;
+    height: 60rem;
+   
+
+
+}
+
+#background-section2{
+
+    width: 100vw;
+    height: auto;
+
+}
+
+
+#logo-bat{
+    margin-top: auto;
+    position: absolute;
+    
+   
+}
+
+
+
+#logo-bat img{
+
+    width: 600px;
+    height: auto;
+    
+}
+
+
+
+
+#logo-warner{
+
+    width: 50px;
+    height: 41px;
+
+}
+
+#logo-dc{
+
+    width: auto;
+    height: 38px;
+
+}
+
+#content{
+
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    
+    
+}
+
+#rating-16-br{
+
+    width: auto;
+    height: 100px;
+    margin: 0rem 0rem 2rem 1rem;
+
+
+}
+
+#increase-font, #decrease-font{
+
+
+    font-family: 'Inconsolata', monospace;
+    font-weight: 400;
+    color: #d80000;
+    height: auto;
+    font-size: 25px!important;
+
+}
+
